@@ -1,0 +1,44 @@
+#right {
+    position: fixed;
+    right: 20px;
+    top: 20px;
+    background-color: #FFEF6B;
+    width: 30%;
+    padding: 10px;
+    font-size: 1.3em;
+    font-family: Helvetica, sans-serif;
+    border-radius: 8px;
+}
+
+#left {
+    position: absolute;
+    
+    left: 0px;
+    top: 0px;
+    width: 100%;
+    max-width: 60%;
+    padding: 20px;
+
+
+}
+
+.advancedsearch {
+    padding: 15px;
+    margin-bottom: 5px;
+    border: 1px dashed black;
+    border-radius: 8px;
+}
+
+.results {
+    padding: 15px;
+    background-color: #DEDEDE;
+    margin-bottom: 5px;
+    border: 1px dashed black;
+    border-radius: 8px;
+}    
+
+.link {
+    font-family: Helvetica, sans-serif;
+    font-size: 1.7em;
+    text-decoration: none;
+}
